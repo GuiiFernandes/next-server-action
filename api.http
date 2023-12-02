@@ -1,0 +1,16 @@
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+    "username": "guifjj92@gmail.com",
+    "password": "1234567"
+}
+
+###
+POST http://localhost:8000/login
+Content-Type: application/json
+
+{
+    "username": "xablau@gmail.com",
+    "password": "1234567"
+}
